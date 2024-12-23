@@ -1,6 +1,7 @@
 # .NET Core
 bin/
 obj/
+Migrations/
 .vs/
 .vscode/
 .idea/
